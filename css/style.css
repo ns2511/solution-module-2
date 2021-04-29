@@ -16,7 +16,7 @@
             }
           
             .container{
-                /* outline: solid red; */
+                
                 display: flex;
             }
             
@@ -37,14 +37,7 @@
             }
         }
        
-        .container {
-
-            /* align-items: center; */
-            /* width: 1000px; */
-           
-            /* border: solid red; */
-            /* margin: auto; */
-        }
+        
 
         .block {
             background-color: rgb(170, 155, 155);
